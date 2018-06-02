@@ -18,3 +18,6 @@ I am obviously not very qualified to talk on the statistics part, the articles l
 But, I am naturally suspicious of statisticians and they scare me a little, so I decided to code it in Python to test it out, and sure enough, you get about .31 every time, just as the papers suggest.
 
 Please ignore spelling mistakes, was not goal of project.
+
+
+Old code was on Github, archived here: https://github.com/jakevossen5/PrisonerStats
