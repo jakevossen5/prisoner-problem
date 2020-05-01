@@ -10,7 +10,7 @@ But if one prisoner doesn't find his number, it all fails.
 The group gets to talk once before they start opening boxes, but after that they can't communicate.
 
 At first it seems hopeless, as it is .5^100 odds of making it, but doing some clever math you can have them survive about 30% of the time.
-The 'tick' is that you number all of the boxes, and each prisoner starts by opening the box with his number on the outside.
+The 'trick' is that you number all of the boxes, and each prisoner starts by opening the box with his number on the outside.
 Then, if that number is not his, he goes to the box numbered with the number he found inside that box.
 This way, he is guaranteed to be in a loop with his number in it, and we can calculate the odds of a loop being greater than 50 in length.
 I am obviously not very qualified to talk on the statistics part, the articles linked above go in a lot more detail. 
